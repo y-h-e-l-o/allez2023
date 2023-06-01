@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<root ptr="0x55eaf957c920" id="345" symbol="11SwRootFrame" lower="346">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55eaf95fa310" id="2"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="86" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="36355" height="33960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="36355" height="33960"/>
+ </infos>
+ <page ptr="0x55eaf8930cf0" id="346" symbol="11SwPageFrame" next="471" upper="345" lower="456">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="353" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <header ptr="0x55eaf8751800" id="456" symbol="13SwHeaderFrame" next="347" upper="346" lower="457" fmtName="CpyDesc" fmtPtr="0x55eaf81f80d0">
+   <infos>
+    <bounds left="1487" top="1418" width="9638" height="559" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="276"/>
+   </infos>
+   <txt ptr="0x55eaf8239c80" id="457" symbol="11SwTextFrame" upper="456" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="1418" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55eaf95132e0" id="347" symbol="11SwBodyFrame" prev="456" upper="346" lower="464">
+   <infos>
+    <bounds left="1487" top="1977" width="9638" height="14011" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14011"/>
+   </infos>
+   <txt ptr="0x55eaf4abf6d0" id="464" symbol="11SwTextFrame" next="466" upper="347" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="1977" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+LA FÉDÉRATION DES CLUBS DE L’ÉCOLE     <Text nLength="3" nType="PortionType::Text" nHeight="480" nWidth="678" Portion="LA "/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="480" nWidth="593" Portion="F&#xC9;"/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="480" nWidth="2361" Portion="D&#xC9;RATION "/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="480" nWidth="631" Portion="DE"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="480" nWidth="363" Portion="S "/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="480" nWidth="311" Portion="C"/>
+    <Text nLength="16" nType="PortionType::Text" nHeight="480" nWidth="3821" Portion="LUBS DE L&#x2019;&#xC9;COLE "/>
+    <LineBreak nWidth="8758" Line="LA F&#xC9;D&#xC9;RATION DES CLUBS DE L&#x2019;&#xC9;COLE "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8236dd0" id="466" symbol="11SwTextFrame" next="349" prev="464" upper="347" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="2457" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa190740" id="349" symbol="11SwTextFrame" next="446" prev="466" upper="347" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="2937" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club comme école    <Text nLength="19" nType="PortionType::Para" nHeight="480" nWidth="3763" Portion="Le club comme &#xE9;cole"/>
+    <LineBreak nWidth="3763" Line="Le club comme &#xE9;cole"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf81b5d50" id="446" symbol="11SwTextFrame" next="351" prev="349" upper="347" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="3417" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf95a3f90" id="351" symbol="11SwTextFrame" next="352" prev="446" upper="347" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="3897" width="9638" height="960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="960"/>
+    </infos>
+Le club est un espace regroupant des membres qui partagent des intérêts communs.    <Text nLength="49" nType="PortionType::Para" nHeight="480" nWidth="9430" Portion="Le club est un espace regroupant des membres qui "/>
+    <LineBreak nWidth="9430" Line="Le club est un espace regroupant des membres qui "/>
+    <Text nLength="31" nType="PortionType::Lay" nHeight="480" nWidth="6090" Portion="partagent des int&#xE9;r&#xEA;ts communs."/>
+    <LineBreak nWidth="6090" Line="partagent des int&#xE9;r&#xEA;ts communs."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa19eb50" id="352" symbol="11SwTextFrame" next="353" prev="351" upper="347" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="4857" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Aucune de ces membres n'a le statut de professeur.    <Text nLength="50" nType="PortionType::Para" nHeight="480" nWidth="9374" Portion="Aucune de ces membres n'a le statut de professeur."/>
+    <LineBreak nWidth="9374" Line="Aucune de ces membres n'a le statut de professeur."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa192620" id="353" symbol="11SwTextFrame" next="354" prev="352" upper="347" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="5337" width="9638" height="960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="960"/>
+    </infos>
+Tous ont des niveaux et des compétences différentes dans différents domaines.    <Text nLength="51" nType="PortionType::Text" nHeight="480" nWidth="9565" Portion="Tous ont des niveaux et des comp&#xE9;tences diff&#xE9;rentes"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9565" Line="Tous ont des niveaux et des comp&#xE9;tences diff&#xE9;rentes "/>
+    <Text nLength="25" nType="PortionType::Lay" nHeight="480" nWidth="4741" Portion="dans diff&#xE9;rents domaines."/>
+    <LineBreak nWidth="4741" Line="dans diff&#xE9;rents domaines."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf95b1f70" id="354" symbol="11SwTextFrame" next="348" prev="353" upper="347" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="6297" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Chaque membre du club enseigne et apprends.    <Text nLength="43" nType="PortionType::Para" nHeight="480" nWidth="8616" Portion="Chaque membre du club enseigne et apprends."/>
+    <LineBreak nWidth="8616" Line="Chaque membre du club enseigne et apprends."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf7bf1a20" id="348" symbol="11SwTextFrame" next="432" prev="354" upper="347" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="6777" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Les clubs sont une école idéale.    <Text nLength="32" nType="PortionType::Para" nHeight="480" nWidth="5750" Portion="Les clubs sont une &#xE9;cole id&#xE9;ale."/>
+    <LineBreak nWidth="5750" Line="Les clubs sont une &#xE9;cole id&#xE9;ale."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf88a2540" id="432" symbol="11SwTextFrame" next="433" prev="348" upper="347" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="7257" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8328ad0" id="433" symbol="11SwTextFrame" next="434" prev="432" upper="347" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="7737" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est fédérateur,    <Text nLength="23" nType="PortionType::Para" nHeight="480" nWidth="4104" Portion="Le club est f&#xE9;d&#xE9;rateur,"/>
+    <LineBreak nWidth="4104" Line="Le club est f&#xE9;d&#xE9;rateur,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf883cad0" id="434" symbol="11SwTextFrame" next="435" prev="433" upper="347" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="8217" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club défie l'autorité, complote, s'organise, et agit,    <Text nLength="56" nType="PortionType::Para" nHeight="480" nWidth="9561" Portion="Le club d&#xE9;fie l'autorit&#xE9;, complote, s'organise, et agit,"/>
+    <LineBreak nWidth="9561" Line="Le club d&#xE9;fie l'autorit&#xE9;, complote, s'organise, et agit,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa1ad640" id="435" symbol="11SwTextFrame" next="436" prev="434" upper="347" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="8697" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est une société auto-gérée,    <Text nLength="35" nType="PortionType::Para" nHeight="480" nWidth="6310" Portion="Le club est une soci&#xE9;t&#xE9; auto-g&#xE9;r&#xE9;e,"/>
+    <LineBreak nWidth="6310" Line="Le club est une soci&#xE9;t&#xE9; auto-g&#xE9;r&#xE9;e,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8676470" id="436" symbol="11SwTextFrame" next="437" prev="435" upper="347" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="9177" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club n'as pas de maître,    <Text nLength="27" nType="PortionType::Para" nHeight="480" nWidth="4939" Portion="Le club n'as pas de ma&#xEE;tre,"/>
+    <LineBreak nWidth="4939" Line="Le club n'as pas de ma&#xEE;tre,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf4b81ad0" id="437" symbol="11SwTextFrame" next="438" prev="436" upper="347" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="9657" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est anarchique,    <Text nLength="23" nType="PortionType::Para" nHeight="480" nWidth="4284" Portion="Le club est anarchique,"/>
+    <LineBreak nWidth="4284" Line="Le club est anarchique,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8d7d360" id="438" symbol="11SwTextFrame" next="439" prev="437" upper="347" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="10137" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est flexible, mobile et s'adapte    <Text nLength="40" nType="PortionType::Para" nHeight="480" nWidth="6973" Portion="Le club est flexible, mobile et s'adapte"/>
+    <LineBreak nWidth="6973" Line="Le club est flexible, mobile et s'adapte"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8896ad0" id="439" symbol="11SwTextFrame" next="440" prev="438" upper="347" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="10617" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club ne meurt jamais.    <Text nLength="24" nType="PortionType::Para" nHeight="480" nWidth="4607" Portion="Le club ne meurt jamais."/>
+    <LineBreak nWidth="4607" Line="Le club ne meurt jamais."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf819b960" id="440" symbol="11SwTextFrame" next="441" prev="439" upper="347" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="11097" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8d8ab40" id="441" symbol="11SwTextFrame" next="442" prev="440" upper="347" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="11577" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est fédérateur,    <Text nLength="23" nType="PortionType::Para" nHeight="480" nWidth="4104" Portion="Le club est f&#xE9;d&#xE9;rateur,"/>
+    <LineBreak nWidth="4104" Line="Le club est f&#xE9;d&#xE9;rateur,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf4c07ea0" id="442" symbol="11SwTextFrame" next="443" prev="441" upper="347" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="12057" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club défie l'autorité, complote, s'organise, et agit,    <Text nLength="56" nType="PortionType::Para" nHeight="480" nWidth="9561" Portion="Le club d&#xE9;fie l'autorit&#xE9;, complote, s'organise, et agit,"/>
+    <LineBreak nWidth="9561" Line="Le club d&#xE9;fie l'autorit&#xE9;, complote, s'organise, et agit,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf808a440" id="443" symbol="11SwTextFrame" next="444" prev="442" upper="347" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="12537" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club n'as pas de maître,    <Text nLength="27" nType="PortionType::Para" nHeight="480" nWidth="4939" Portion="Le club n'as pas de ma&#xEE;tre,"/>
+    <LineBreak nWidth="4939" Line="Le club n'as pas de ma&#xEE;tre,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf85ae570" id="444" symbol="11SwTextFrame" next="445" prev="443" upper="347" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="13017" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est anarchique,    <Text nLength="23" nType="PortionType::Para" nHeight="480" nWidth="4284" Portion="Le club est anarchique,"/>
+    <LineBreak nWidth="4284" Line="Le club est anarchique,"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf9404890" id="445" symbol="11SwTextFrame" next="431" prev="444" upper="347" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="13497" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club est flexible, mobile et s'adapte    <Text nLength="40" nType="PortionType::Para" nHeight="480" nWidth="6973" Portion="Le club est flexible, mobile et s'adapte"/>
+    <LineBreak nWidth="6973" Line="Le club est flexible, mobile et s'adapte"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf87e9e20" id="431" symbol="11SwTextFrame" next="468" prev="445" upper="347" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="13977" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Le club ne meurt jamais.    <Text nLength="24" nType="PortionType::Para" nHeight="480" nWidth="4607" Portion="Le club ne meurt jamais."/>
+    <LineBreak nWidth="4607" Line="Le club ne meurt jamais."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8474840" id="468" symbol="11SwTextFrame" next="469" prev="431" upper="347" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="14457" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8a68cf0" id="469" symbol="11SwTextFrame" next="470" prev="468" upper="347" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="14937" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8a5c570" id="470" symbol="11SwTextFrame" prev="469" upper="347" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="15417" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55eaf4cb0150" id="471" symbol="11SwPageFrame" next="482" prev="346" upper="345" lower="473">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="12543" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <header ptr="0x55eaf8717700" id="473" symbol="13SwHeaderFrame" next="472" upper="471" lower="474" fmtName="CpyDesc" fmtPtr="0x55eaf81f80d0">
+   <infos>
+    <bounds left="13677" top="1418" width="9638" height="559" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="276"/>
+   </infos>
+   <txt ptr="0x55eaf8cc44c0" id="474" symbol="11SwTextFrame" upper="473" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="1418" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55eaf8d95100" id="472" symbol="11SwBodyFrame" prev="473" upper="471" lower="467">
+   <infos>
+    <bounds left="13677" top="1977" width="9638" height="14011" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14011"/>
+   </infos>
+   <txt ptr="0x55eafa193e50" id="467" symbol="11SwTextFrame" next="480" upper="472" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="1977" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+La FEDEC est ouverte.    <Text nLength="21" nType="PortionType::Para" nHeight="480" nWidth="4284" Portion="La FEDEC est ouverte."/>
+    <LineBreak nWidth="4284" Line="La FEDEC est ouverte."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8a36a20" id="480" symbol="11SwTextFrame" next="475" prev="467" upper="472" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="2457" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8c722c0" id="475" symbol="11SwTextFrame" next="477" prev="480" upper="472" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="2937" width="9638" height="1440" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="1440"/>
+    </infos>
+Elle fait le pont entre les initatives étudiant.es et l’administration; elle facilite les démarches et le déblocage des budgets.    <Text nLength="54" nType="PortionType::Para" nHeight="480" nWidth="9149" Portion="Elle fait le pont entre les initatives &#xE9;tudiant.es et "/>
+    <LineBreak nWidth="9149" Line="Elle fait le pont entre les initatives &#xE9;tudiant.es et "/>
+    <Text nLength="52" nType="PortionType::Lay" nHeight="480" nWidth="8924" Portion="l&#x2019;administration; elle facilite les d&#xE9;marches et le "/>
+    <LineBreak nWidth="8924" Line="l&#x2019;administration; elle facilite les d&#xE9;marches et le "/>
+    <Text nLength="22" nType="PortionType::Lay" nHeight="480" nWidth="4167" Portion="d&#xE9;blocage des budgets."/>
+    <LineBreak nWidth="4167" Line="d&#xE9;blocage des budgets."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf812f1f0" id="477" symbol="11SwTextFrame" next="476" prev="475" upper="472" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="4377" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf81fc610" id="476" symbol="11SwTextFrame" next="479" prev="477" upper="472" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="4857" width="9638" height="960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="960"/>
+    </infos>
+Il suffit de se rapprocher de la FEDEC et de transmettre ses factures pour en profiter.    <Text nLength="45" nType="PortionType::Para" nHeight="480" nWidth="8178" Portion="Il suffit de se rapprocher de la FEDEC et de "/>
+    <LineBreak nWidth="8178" Line="Il suffit de se rapprocher de la FEDEC et de "/>
+    <Text nLength="42" nType="PortionType::Lay" nHeight="480" nWidth="7591" Portion="transmettre ses factures pour en profiter."/>
+    <LineBreak nWidth="7591" Line="transmettre ses factures pour en profiter."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf49b9a30" id="479" symbol="11SwTextFrame" next="481" prev="476" upper="472" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="5817" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8eccd20" id="481" symbol="11SwTextFrame" prev="479" upper="472" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="6297" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55eaf88d08f0" id="482" symbol="11SwPageFrame" next="497" prev="471" upper="345" lower="484">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="24733" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <header ptr="0x55eaf8c78720" id="484" symbol="13SwHeaderFrame" next="483" upper="482" lower="485" fmtName="CpyDesc" fmtPtr="0x55eaf81f80d0">
+   <infos>
+    <bounds left="25867" top="1418" width="9638" height="559" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="276"/>
+   </infos>
+   <txt ptr="0x55eaf8901e10" id="485" symbol="11SwTextFrame" upper="484" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="1418" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55eaf9549490" id="483" symbol="11SwBodyFrame" prev="484" upper="482" lower="478">
+   <infos>
+    <bounds left="25867" top="1977" width="9638" height="14011" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14011"/>
+   </infos>
+   <txt ptr="0x55eafa1a8630" id="478" symbol="11SwTextFrame" next="493" upper="483" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="1977" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+La FEDEC acceuille aujourd’hui un nouveau club    <Text nLength="46" nType="PortionType::Para" nHeight="480" nWidth="9114" Portion="La FEDEC acceuille aujourd&#x2019;hui un nouveau club"/>
+    <LineBreak nWidth="9114" Line="La FEDEC acceuille aujourd&#x2019;hui un nouveau club"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf92e4c20" id="493" symbol="11SwTextFrame" next="494" prev="478" upper="483" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="2457" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8dc1670" id="494" symbol="11SwTextFrame" next="488" prev="493" upper="483" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="2937" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8978c00" id="488" symbol="11SwTextFrame" next="486" prev="494" upper="483" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="3417" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8c69350" id="486" symbol="11SwTextFrame" next="495" prev="488" upper="483" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="3897" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+=&gt;Le CLUB HTML&lt;=    <Text nLength="5" nType="PortionType::Text" nHeight="480" nWidth="1069" Portion="=&gt;Le "/>
+    <Text nLength="9" nType="PortionType::Text" nHeight="480" nWidth="2678" Portion="CLUB HTML"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="480" nWidth="485" Portion="&lt;="/>
+    <LineBreak nWidth="4232" Line="=&gt;Le CLUB HTML&lt;="/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8175a10" id="495" symbol="11SwTextFrame" next="490" prev="486" upper="483" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="4377" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf839d330" id="490" symbol="11SwTextFrame" next="489" prev="495" upper="483" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="4857" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf80c9640" id="489" symbol="11SwTextFrame" next="515" prev="490" upper="483" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="5337" width="9638" height="960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="960"/>
+    </infos>
+Ca code en HTML CSS JAVASCRIPT ; les bases du web ; aucune base requise pour participer.     <Text nLength="30" nType="PortionType::Text" nHeight="480" nWidth="6916" Portion="Ca code en HTML CSS JAVASCRIPT"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="15" nType="PortionType::Text" nHeight="480" nWidth="2553" Portion="; les bases du "/>
+    <LineBreak nWidth="9580" Line="Ca code en HTML CSS JAVASCRIPT&#xA0;; les bases du "/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="480" nWidth="717" Portion="web"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="39" nType="PortionType::Text" nHeight="480" nWidth="7054" Portion="; aucune base requise pour participer. "/>
+    <LineBreak nWidth="7882" Line="web&#xA0;; aucune base requise pour participer. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf82a0dc0" id="515" symbol="11SwTextFrame" next="516" prev="489" upper="483" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="6297" width="9638" height="768" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="768"/>
+    </infos>
+=&gt; clubhtml@mailo.com &lt;=    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="818"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="768" nWidth="954" Portion="=&gt; "/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="768" nWidth="6094" Portion="clubhtml@mailo.com"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="768" nWidth="954" Portion=" &lt;="/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="819"/>
+    <LineBreak nWidth="9639" Line="=&gt; clubhtml@mailo.com &lt;="/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8c121a0" id="516" symbol="11SwTextFrame" prev="515" upper="483" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="7065" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55eaf4b84820" id="497" symbol="11SwPageFrame" next="517" prev="482" upper="345" lower="499">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="353" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <header ptr="0x55eaf4e1ac00" id="499" symbol="13SwHeaderFrame" next="498" upper="497" lower="500" fmtName="CpyDesc" fmtPtr="0x55eaf81f80d0">
+   <infos>
+    <bounds left="1487" top="18540" width="9638" height="559" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="276"/>
+   </infos>
+   <txt ptr="0x55eaf8d99790" id="500" symbol="11SwTextFrame" upper="499" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="18540" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55eaf84cba10" id="498" symbol="11SwBodyFrame" prev="499" upper="497" lower="526">
+   <infos>
+    <bounds left="1487" top="19099" width="9638" height="14011" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14011"/>
+   </infos>
+   <txt ptr="0x55eaf92533c0" id="526" symbol="11SwTextFrame" next="527" upper="498" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="19099" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf81e2ed0" id="527" symbol="11SwTextFrame" next="540" prev="526" upper="498" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="19579" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa0158d0" id="540" symbol="11SwTextFrame" next="531" prev="527" upper="498" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="20059" width="9638" height="3840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="3840"/>
+    </infos>
+Les fonds récoltés serviront à payer un nom de domaine pour Le Portail     <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1536"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="960" nWidth="6566" Portion="Les fonds r&#xE9;colt&#xE9;s"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1537"/>
+    <LineBreak nWidth="9639" Line="Les fonds r&#xE9;colt&#xE9;s "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="150"/>
+    <Text nLength="24" nType="PortionType::Text" nHeight="960" nWidth="9338" Portion="serviront &#xE0; payer un nom"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="151"/>
+    <LineBreak nWidth="9639" Line="serviront &#xE0; payer un nom "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1153"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="960" nWidth="7332" Portion="de domaine pour Le"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="1154"/>
+    <LineBreak nWidth="9639" Line="de domaine pour Le "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3437"/>
+    <Text nLength="8" nType="PortionType::Text" nHeight="960" nWidth="2765" Portion="Portail "/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3437"/>
+    <LineBreak nWidth="9639" Line="Portail "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8d998c0" id="531" symbol="11SwTextFrame" next="532" prev="540" upper="498" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="23899" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf869c040" id="532" symbol="11SwTextFrame" next="535" prev="531" upper="498" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="24379" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf81f27a0" id="535" symbol="11SwTextFrame" next="536" prev="532" upper="498" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="24859" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa01bcd0" id="536" symbol="11SwTextFrame" next="537" prev="535" upper="498" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="25339" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa027fa0" id="537" symbol="11SwTextFrame" next="538" prev="536" upper="498" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="25819" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8a33050" id="538" symbol="11SwTextFrame" next="539" prev="537" upper="498" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="26299" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf935eed0" id="539" symbol="11SwTextFrame" next="533" prev="538" upper="498" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="26779" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa07a520" id="533" symbol="11SwTextFrame" next="534" prev="539" upper="498" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="27259" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="480"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf9578d20" id="534" symbol="11SwTextFrame" next="523" prev="533" upper="498" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="27739" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+AFFICHE (CRACK-CUTE)    <Text nLength="20" nType="PortionType::Para" nHeight="480" nWidth="5411" Portion="AFFICHE (CRACK-CUTE)"/>
+    <LineBreak nWidth="5411" Line="AFFICHE (CRACK-CUTE)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf959e730" id="523" symbol="11SwTextFrame" next="524" prev="534" upper="498" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="28219" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+FAITES PAR YHEL0 &amp; URIEL.LE     <Text nLength="28" nType="PortionType::Para" nHeight="480" nWidth="7028" Portion="FAITES PAR YHEL0 &amp; URIEL.LE "/>
+    <LineBreak nWidth="7028" Line="FAITES PAR YHEL0 &amp; URIEL.LE "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf48a1380" id="524" symbol="11SwTextFrame" next="563" prev="523" upper="498" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="28699" width="9638" height="768" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="768"/>
+    </infos>
++/– 5 €    <Text nLength="7" nType="PortionType::Para" nHeight="768" nWidth="1988" Portion="+/&#x2013; 5 &#x20AC;"/>
+    <LineBreak nWidth="1988" Line="+/&#x2013; 5 &#x20AC;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8cd3eb0" id="563" symbol="11SwTextFrame" next="529" prev="524" upper="498" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="29467" width="9638" height="768" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="768"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="768"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf87ccc20" id="529" symbol="11SwTextFrame" prev="563" upper="498" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1487" top="30235" width="9638" height="768" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="768"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="768"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55eaf8c274d0" id="517" symbol="11SwPageFrame" next="546" prev="497" upper="345" lower="519">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="12543" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <header ptr="0x55eaf8801000" id="519" symbol="13SwHeaderFrame" next="518" upper="517" lower="520" fmtName="CpyDesc" fmtPtr="0x55eaf81f80d0">
+   <infos>
+    <bounds left="13677" top="18540" width="9638" height="559" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="276"/>
+   </infos>
+   <txt ptr="0x55eaf8179610" id="520" symbol="11SwTextFrame" upper="519" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="18540" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55eaf81071d0" id="518" symbol="11SwBodyFrame" prev="519" upper="517" lower="487">
+   <infos>
+    <bounds left="13677" top="19099" width="9638" height="14011" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14011"/>
+   </infos>
+   <txt ptr="0x55eaf825de20" id="487" symbol="11SwTextFrame" next="501" upper="518" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="19099" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+LE PORTAIL     <Text nLength="11" nType="PortionType::Para" nHeight="480" nWidth="2615" Portion="LE PORTAIL "/>
+    <LineBreak nWidth="2615" Line="LE PORTAIL "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf858b8d0" id="501" symbol="11SwTextFrame" next="503" prev="487" upper="518" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="19579" width="9638" height="960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="960"/>
+    </infos>
+est un site internet qui sers de passerelle entre les initiatives étudiantes de l’école    <Text nLength="54" nType="PortionType::Para" nHeight="480" nWidth="9396" Portion="est un site internet qui sers de passerelle entre les "/>
+    <LineBreak nWidth="9396" Line="est un site internet qui sers de passerelle entre les "/>
+    <Text nLength="33" nType="PortionType::Lay" nHeight="480" nWidth="5680" Portion="initiatives &#xE9;tudiantes de l&#x2019;&#xE9;cole"/>
+    <LineBreak nWidth="5680" Line="initiatives &#xE9;tudiantes de l&#x2019;&#xE9;cole"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8af36d0" id="503" symbol="11SwTextFrame" next="502" prev="501" upper="518" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="20539" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8879560" id="502" symbol="11SwTextFrame" next="505" prev="503" upper="518" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="21019" width="9638" height="960" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="960"/>
+    </infos>
+Y sont listés les liens vers des réseaux sociaux ; des sites internets ou des bases d’archives.    <Text nLength="48" nType="PortionType::Text" nHeight="480" nWidth="8529" Portion="Y sont list&#xE9;s les liens vers des r&#xE9;seaux sociaux"/>
+    <Special nLength="1" nType="PortionType::Blank" rText="&#xA0;"/>
+    <Text nLength="6" nType="PortionType::Text" nHeight="480" nWidth="947" Portion="; des "/>
+    <LineBreak nWidth="9587" Line="Y sont list&#xE9;s les liens vers des r&#xE9;seaux sociaux&#xA0;; des "/>
+    <Text nLength="40" nType="PortionType::Lay" nHeight="480" nWidth="7111" Portion="sites internets ou des bases d&#x2019;archives."/>
+    <LineBreak nWidth="7111" Line="sites internets ou des bases d&#x2019;archives."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf8cbaec0" id="505" symbol="11SwTextFrame" next="504" prev="502" upper="518" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="21979" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf9234660" id="504" symbol="11SwTextFrame" next="507" prev="505" upper="518" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="22459" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+LE PORTAIL est en construction constante.    <Text nLength="41" nType="PortionType::Para" nHeight="480" nWidth="8109" Portion="LE PORTAIL est en construction constante."/>
+    <LineBreak nWidth="8109" Line="LE PORTAIL est en construction constante."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eafa02b640" id="507" symbol="11SwTextFrame" next="567" prev="504" upper="518" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="22939" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+Il se lance aujourd’hui.    <Text nLength="24" nType="PortionType::Para" nHeight="480" nWidth="4209" Portion="Il se lance aujourd&#x2019;hui."/>
+    <LineBreak nWidth="4209" Line="Il se lance aujourd&#x2019;hui."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf87978d0" id="567" symbol="11SwTextFrame" next="566" prev="507" upper="518" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="23419" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf88f6640" id="566" symbol="11SwTextFrame" next="511" prev="567" upper="518" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="23899" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf94a1040" id="511" symbol="11SwTextFrame" next="512" prev="566" upper="518" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="24379" width="9638" height="1440" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="1440"/>
+    </infos>
+Si vous avez des choses a y ajouter vous pouvez l’écrire sur cette feuille ou envoyer un lien à    <Text nLength="41" nType="PortionType::Para" nHeight="480" nWidth="8315" Portion="Si vous avez des choses a y ajouter vous "/>
+    <LineBreak nWidth="8315" Line="Si vous avez des choses a y ajouter vous "/>
+    <Text nLength="48" nType="PortionType::Lay" nHeight="480" nWidth="9558" Portion="pouvez l&#x2019;&#xE9;crire sur cette feuille ou envoyer un "/>
+    <LineBreak nWidth="9558" Line="pouvez l&#x2019;&#xE9;crire sur cette feuille ou envoyer un "/>
+    <Text nLength="6" nType="PortionType::Lay" nHeight="480" nWidth="1152" Portion="lien &#xE0;"/>
+    <LineBreak nWidth="1152" Line="lien &#xE0;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf887a2c0" id="512" symbol="11SwTextFrame" next="510" prev="511" upper="518" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="25819" width="9638" height="768" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="768"/>
+    </infos>
+=&gt; leportail@mailo.com &lt;=    <Text nLength="3" nType="PortionType::Text" nHeight="768" nWidth="954" Portion="=&gt; "/>
+    <Text nLength="19" nType="PortionType::Text" nHeight="768" nWidth="5976" Portion="leportail@mailo.com"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="768" nWidth="954" Portion=" &lt;="/>
+    <LineBreak nWidth="7884" Line="=&gt; leportail@mailo.com &lt;="/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf81f6ca0" id="510" symbol="11SwTextFrame" next="545" prev="512" upper="518" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="26587" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf803ad20" id="545" symbol="11SwTextFrame" prev="510" upper="518" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="13677" top="27067" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x55eaf82ab600" id="546" symbol="11SwPageFrame" prev="517" upper="345" lower="548">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="24733" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <header ptr="0x55eafa0233a0" id="548" symbol="13SwHeaderFrame" next="547" upper="546" lower="549" fmtName="CpyDesc" fmtPtr="0x55eaf81f80d0">
+   <infos>
+    <bounds left="25867" top="18540" width="9638" height="559" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="276"/>
+   </infos>
+   <txt ptr="0x55eaf87b7710" id="549" symbol="11SwTextFrame" upper="548" txtNodeIndex="6" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="18540" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </header>
+  <body ptr="0x55eaf82b06d0" id="547" symbol="11SwBodyFrame" prev="548" upper="546" lower="558">
+   <infos>
+    <bounds left="25867" top="19099" width="9638" height="14011" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14011"/>
+   </infos>
+   <txt ptr="0x55eaf8542510" id="558" symbol="11SwTextFrame" next="560" upper="547" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="19099" width="9638" height="672" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="672"/>
+    </infos>
+ALCOOL/ NOURRITURE = 1€    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="533"/>
+    <Text nLength="23" nType="PortionType::Text" nHeight="672" nWidth="8573" Portion="ALCOOL/ NOURRITURE = 1&#x20AC;"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="533"/>
+    <LineBreak nWidth="9639" Line="ALCOOL/ NOURRITURE = 1&#x20AC;"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55eaf4a3e800" id="560" symbol="11SwTextFrame" prev="558" upper="547" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="25867" top="19771" width="9638" height="480" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="480"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="480"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>

@@ -1,0 +1,275 @@
+
+
+h1
+{
+	text-align: center;
+	font-weight: lighter;
+	font-size: 4em;
+	width: 1100px;
+	margin: auto;
+	margin-bottom: 50px;
+    margin-top: 50px;
+    z-index: 20;
+}
+
+h2
+{
+	text-align: center;
+	font-weight: lighter;
+	font-size: 5em;
+	width: 1000px;
+	height: 80px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+h3
+{
+	text-align: center;
+	font-weight: lighter;
+	font-size: 1.5em;
+	background-color: silver;
+    border-radius: 10px;
+    box-shadow: 6px 6px 0px black;
+    width: 80px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h4, .button
+{
+	text-align: center;
+	font-weight: lighter;
+	font-size: 1.5em;
+	background-color: silver;
+    border-radius: 10px;
+    box-shadow: 6px 6px 0px black;
+    width: 120px;
+    height: 50px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+        color: black;
+	text-decoration: none;
+}
+
+h5
+{
+	text-align: center;
+	font-weight: lighter;
+	font-size: 2em;
+}
+
+h6
+{
+	text-align: left;
+	font-size: 1em;
+	position:absolute;
+	margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: silver;
+
+
+}
+.button{
+top: 60vh;
+position: absolute;
+}
+
+*
+{
+/*color : rgb(237,100,252);*/
+font-family: minion pro, impact, arial;
+}
+
+body
+{
+/*background-color : rgb(178,252,171);*/
+background-color: white;
+overflow: hidden
+}
+.bodydeux
+{
+position: absolute;
+width: 110%;
+height:110%;
+background-color: white;
+opacity: 0.6;
+z-index: 10;
+}
+
+.surcouche{
+position: absolute;
+z-index: 20;
+}
+
+img
+{
+	border: 1px solid black;
+	justify-content: center;
+	width: 180px;
+	height: 255px;
+	float: left;
+}
+
+/*modal*/
+.modalDialog {
+    position: fixed;
+    font-family: minion pro, impact, arial;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 99999;
+    opacity:0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+.modalDialog:target {
+    opacity:1;
+    pointer-events: auto;
+}
+.modalDialog > div {
+    width: 550px;
+    position: relative;
+    margin: 20% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: white;
+}
+
+
+.close {
+    background: gray;
+    color: white;
+    border-radius: 3px;
+    line-height: 25px;
+    position: absolute;
+    right: 5px;
+    text-align: center;
+    top: 5px;
+    width: 24px;
+    text-decoration: none;
+}
+.close:hover {
+	background: red;
+}
+
+/*modal*/
+
+
+
+#homefedec
+{
+
+    color: black;
+	text-decoration: none;
+
+}
+
+
+
+#homefedec:hover
+{
+   color: white;
+}
+
+#lienplanning
+{
+
+    color: black;
+	text-decoration: none;
+
+}
+
+#lienplanning:hover
+{
+   color: white;
+}
+
+#fedec-planning
+{
+	display: flex;
+    justify-content: space-around;
+
+}
+
+
+#conteneurplanning
+{
+	display: flex;
+	align-items: center;
+    justify-content: space-between;
+}
+
+#planning
+{
+	border:none;
+	width: 1100px;
+	height: 1555px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin: auto;
+
+}
+
+
+#conteneur1
+{
+	display: flex;
+    justify-content: space-between;
+
+}
+
+#conteneur2
+{
+	display: flex;
+    justify-content: space-between;
+
+}
+
+
+.audio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+  width: 1000px;
+  height: 80px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#planningimage
+{
+	
+}
+
+#planningimages:hover
+{
+	background-color: silver;
+}
+
+
+table
+{
+	border-collapse: collapse;
+	justify-content: center;
+	margin: auto;
+}
+
+td
+{
+	border: 3px solid rgb(100,100,100);
+}

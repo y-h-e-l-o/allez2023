@@ -1,0 +1,138 @@
+@font-face {
+font-family:"pynion";
+src: url("Redaction-Italic.otf");
+}
+
+body{
+height: 100%;
+font-size: 0.9em;
+font-family :Verdana, Verdana, Geneva, sans-serif;
+background-image : url(carreauu.jpg);
+background-repeat: repeat;
+background-size: 300%;
+}
+
+.titre{
+position: relative;
+z-index: 1;
+padding:10px;
+top: 0px;
+width: 100%;
+color: white;
+margin-left: -10px;
+letter-spacing: 0.2rem;
+position: fixed;
+text-align: justify;
+text-justify: distribute;
+background: url(carro2.jpg);
+background-size: 90%;
+background-repeat: space around;
+}
+
+#frise{
+		--jour:5vh;
+		width: 45%;
+	}
+#frise>div{
+		display:flex;
+		align-items:center;
+		justify-content:start;
+	}
+#frise>div>:last-child{
+		display:flex;
+		flex-direction:column;
+		row-gap: 5px;
+		align-items: start;
+	}
+#frise>div>:first-child {
+		font-size: 1.1em;
+		margin-right: 50px;
+		color: white;
+		background: black;
+		font-family : pynion;
+	}
+#frise button{
+		padding: 15px;
+		border-radius: 20px;
+		border: #EDEDED inset 3px;
+		max-width:300px;
+	}
+#frise>div:nth-child(2n)>:last-child{
+margin-left: 150px;
+}
+.corps{
+width: 100vw;
+height: 90vh;
+top: 10vh;
+margin-left: 4vw;
+position: absolute;
+display: flex;
+flex-direction: row;
+align-items : flex-start;
+overflow: scroll;
+z-index: 2;
+}
+
+.contenu{
+position: fixed;
+left: 56vw;
+margin: auto;
+top: 10vh;
+z-index: 2;
+}
+.contenu img{
+display : none; 
+width: 120%;
+margin: auto;
+overflow: scroll;
+border: black ;
+}
+#24, #11, #12, #13 {
+width: 50px;
+}
+.debut{
+display : block;
+}
+
+.contenu p{
+background: white;
+overflow: scroll;
+max-width: 35vw;
+box-shadow: 0px 0px 40px 50px white;
+padding: 30px;
+display: none;
+width: 100%;
+height: 100vh;
+}
+
+@media screen and (max-width: 1000px) and (min-height:1000px){
+.titre{
+font-size: 2rem;
+}
+#frise{
+width: 80%;
+
+}
+#frise button{
+max-width: 1000px;
+font-size: 1em;
+}
+.corps{
+font-size: 2rem;
+height: 50%;
+}
+.contenu{
+top: 55%;
+margin: auto;
+width: 100%;
+left: 0px;
+
+margin: 20px;
+}
+
+.contenu p{
+font-size: 2em;
+max-width: 100%;
+height: 36vh;
+}
+}
