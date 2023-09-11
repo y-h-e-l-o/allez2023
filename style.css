@@ -1,16 +1,19 @@
 body{
-overflow: hidden;
 background-image:url('petites/pintur11.jpg');
 background-repeat:repeat   ;
 background-size: 200px ;
+margin: auto;
 }
 
 #tout{
+position: relative;
+top: 10px;
 font-size: 1em;
 display: flex;
 margin: auto;
 }
 .trace{
+position: absolute;
 opacity: 0.8;
 width: 200px;
 transform: rotate(90deg);
@@ -35,24 +38,37 @@ height: 300px;
 text-decoration: none;
 margin: 5px;
 }
+.corps{
+display: flex;
+height: 92vh;
+top: 10px;
+position: relative;
+background-color: black;
+border-radius: 4px;
+
+}
 .liens, .first{
 font-family: times New roman;
 font-size: 1.1rem;
 }
 .liens{
-display:flex;
-flex-direction:column;
-align-items: center;
+    position: relative;
+justify-content: left;
+top: -10px;
+display: block;
 }
  .liens a{
-position: relative;
-justify-content: center;
-background:#5914B6;
+background-color:#5914B6;
 color:white;
 padding:2px;
 }
 
-
+#core{
+position: relative;
+width: 5px;
+height: 10px;
+top:200vh;
+}
 @media screen and (max-width: 1000px) and (min-height:1000px){
 .liens, .first{
 font-size: 3em;
