@@ -12,28 +12,27 @@ font-size: 1em;
 display: flex;
 margin: auto;
 }
-.trace{
-position: absolute;
-opacity: 0.8;
-width: 200px;
-transform: rotate(90deg);
-}
+
 .first a {
 text-decoration: underline;
 color: black;
 }
 .first{
 display:flex;
+flex-wrap: wrap;
 position: relative;
 justify-content:space-between;
+font-family: times New roman;
+font-size: 1.1rem;
 }
-.first> *{
-margin: 20px;
+.id{
+    flex-basis: 33,3%;
 }
-.paragraphe{
-width: 300px;
-height: 300px;
+.idbis{
+    flex-basis: 100%;
+    margin: 5px;
 }
+
 .id{
 text-decoration: none;
 margin: 5px;
@@ -45,17 +44,14 @@ top: 10px;
 position: relative;
 background-color: black;
 border-radius: 4px;
-
-}
-.liens, .first{
-font-family: times New roman;
-font-size: 1.1rem;
 }
 .liens{
     position: relative;
 justify-content: left;
 top: -10px;
 display: block;
+font-family: times New roman;
+font-size: 1.1rem;
 }
  .liens a{
 background-color:#5914B6;
@@ -69,23 +65,38 @@ width: 5px;
 height: 10px;
 top:200vh;
 }
-@media screen and (max-width: 1000px) and (min-height:1000px){
-.liens, .first{
-font-size: 3em;
+.description{
+    display: none;
 }
+@media screen and (max-width: 800px) and (min-height:800px){
+.liens{
+font-size: 1.5em;
+display: flex;
+flex-direction: column;
+opacity: 0,5;
+    top: 0px;
+}
+.liens> a {
+    color: black;
+    margin:5px;
+    background-color: #ffffe8;
 
-.paragraphe{
-width: 100%;
-height:100%;
 }
-.first{
-display: inline-block;
+.corps{
+    background-color: #ffffe8;
+    top: 20vh;
 }
-.trace{
+.description{
+    display: block;
+    padding-left: 10px;
+}
+a + div{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: solid 1px rgba(50, 50, 93, 0.25);
+box-shadow: rgba(50, 50, 93, 0.25) 0px 12px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 
 }
- #tout{
- font-size: 2em;
- }
+#tout{
+    top: 50vh;
 }
-
