@@ -30,7 +30,8 @@ font-size: 1.1rem;
 }
 .idbis{
     flex-basis: 100%;
-    margin: 5px;
+    margin: 5px 5px 20px 5px;
+
 }
 
 .id{
@@ -68,7 +69,7 @@ top:200vh;
 .description{
     display: none;
 }
-@media screen and (max-width: 800px) and (min-height:800px){
+@media screen and (max-width: 400px){
 .liens{
 font-size: 1.5em;
 display: flex;
