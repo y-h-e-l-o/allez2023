@@ -1,18 +1,21 @@
 body{
-background-image:url('petites/pintur11.jpg');
+background-image:url('petites/pintur3.jpg');
 background-repeat:repeat   ;
 background-size: 200px ;
 margin: auto;
 }
 
 #tout{
-position: relative;
-top: 10px;
-font-size: 1em;
+font-size: 14pt;
 display: flex;
 margin: auto;
 }
-
+.down{
+    position : relative;
+    display: flex;
+    flex-direction: column;
+    top: 200vh;
+}
 .first a {
 text-decoration: underline;
 color: black;
@@ -23,7 +26,7 @@ flex-wrap: wrap;
 position: relative;
 justify-content:space-between;
 font-family: times New roman;
-font-size: 1.1rem;
+font-size: 14pt;
 }
 .id{
     flex-basis: 33,3%;
@@ -40,54 +43,54 @@ margin: 5px;
 }
 .corps{
 display: flex;
-height: 92vh;
+height: 95vh;
 top: 10px;
 position: relative;
-background-color: black;
+background-color: black ;
 border-radius: 4px;
 }
 .liens{
-    position: relative;
+    position: sticky;
 justify-content: left;
 top: -10px;
 display: block;
 font-family: times New roman;
-font-size: 1.1rem;
+font-size: 14pt;
 }
  .liens a{
-background-color:#5914B6;
-color:white;
+color:lightgrey;
 padding:2px;
 }
 
 #core{
-position: relative;
 width: 5px;
 height: 10px;
-top:200vh;
 }
 .description{
-    display: none;
+    color: grey;
+    padding-bottom: 5px;
 }
 @media screen and (max-width: 800px) and (min-width: 10px){
 .liens{
-font-size: 1.5em;
+
 display: flex;
 flex-direction: column;
 opacity: 0,5;
     top: 0px;
 }
-.liens> a {
-    color: black;
+.liens>a {
+    font-size: 1.3em;
+    color: darkgrey;
     margin:5px;
-    background-color: #ffffe8;
+    background-color: black;
 
 }
 .corps{
-    background-color: #ffffe8;
-    top: 20vh;
+    background-color: black;
+    top: 10vh;
 }
 .description{
+    font-size: 1,1em;
     display: block;
     padding-left: 10px;
 }
@@ -95,7 +98,7 @@ a + div{
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-bottom: solid 1px rgba(50, 50, 93, 0.25);
-box-shadow: rgba(50, 50, 93, 0.25) 0px 12px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 3px 6px -2px, rgba(0, 0, 0, 0.3) 0px 3px 0px -3px;
 
 }
 #tout{
