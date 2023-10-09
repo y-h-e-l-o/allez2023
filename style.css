@@ -4,9 +4,13 @@ background-repeat:repeat   ;
 background-size: 200px ;
 margin: auto;
 }
-
+*{
+    font-family: monospace;
+    letter-spacing: -3.5px;
+}
 #tout{
 font-size: 14pt;
+letter-spacing: 1px;
 display: flex;
 margin: auto;
 }
@@ -18,59 +22,44 @@ margin: auto;
 }
 .first a {
 text-decoration: underline;
-color: black;
+color: red;
 }
 .first{
 display:flex;
 flex-wrap: wrap;
 position: relative;
 justify-content:space-between;
-font-family: times New roman;
-font-size: 14pt;
+font-size: 20pt;
+color:red;
 }
 .id{
-    flex-basis: 33,3%;
-}
-.idbis{
-    flex-basis: 100%;
-    margin: 5px 5px 20px 5px;
-
-}
-
-.id{
+flex-basis: 33,3%;
 text-decoration: none;
 margin: 5px;
 }
-.corps{
-display: flex;
-height: 95vh;
-top: 10px;
-position: relative;
-background-color: black ;
-border-radius: 4px;
+.idbis{
+    position: relative;
+    font-size: 22pt;
+    letter-spacing: -3px;
 }
 .liens{
-    position: sticky;
-justify-content: left;
-top: -10px;
-display: block;
-font-family: times New roman;
-font-size: 14pt;
+position: relative;
+background-color: black;
+font-size: 26pt;
 }
  .liens a{
-color:lightgrey;
-padding:2px;
+color:mediumslateblue;
+padding:10px;
 }
-
 #core{
 width: 5px;
 height: 10px;
 }
 .description{
-    color: grey;
-    padding-bottom: 5px;
+    color: mediumpurple;
 }
-@media screen and (max-width: 800px) and (min-width: 10px){
+/*
+@media screen and (min-width: 600px) and (min-height: 1000px){
 .liens{
 
 display: flex;
@@ -104,3 +93,4 @@ box-shadow: rgba(50, 50, 93, 0.25) 0px 3px 6px -2px, rgba(0, 0, 0, 0.3) 0px 3px 
 #tout{
     top: 50vh;
 }
+*/
