@@ -41,6 +41,7 @@ margin: 5px;
     position: relative;
     font-size: 22pt;
     letter-spacing: -3px;
+    color:white;
 }
 .liens{
 position: relative;
@@ -58,6 +59,7 @@ height: 10px;
 .description{
     color: mediumpurple;
 }
+
 /*
 @media screen and (min-width: 600px) and (min-height: 1000px){
 .liens{
