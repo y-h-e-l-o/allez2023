@@ -5,8 +5,13 @@ background-size: 200px ;
 margin: auto;
 }
 *{
-    font-family: monospace;
-    letter-spacing: -3.5px;
+    font-family: sans-serif;
+}
+section{
+    margin:auto;
+    padding: 20px;
+    width: 900px;
+    background-color: white;
 }
 #tout{
 font-size: 14pt;
@@ -20,18 +25,16 @@ margin: auto;
     flex-direction: column;
     top: 200vh;
 }
-.first a {
-text-decoration: underline;
-color: red;
-}
+
 .first{
 display:flex;
 flex-wrap: wrap;
 position: relative;
 justify-content:space-between;
-font-size: 20pt;
-color:red;
+font-size: 16pt;
+color:black;
 }
+
 .id{
 flex-basis: 33,3%;
 text-decoration: none;
@@ -39,60 +42,50 @@ margin: 5px;
 }
 .idbis{
     position: relative;
-    font-size: 22pt;
-    letter-spacing: -3px;
-    color:white;
+    font-size: 16pt;
+    color:black;
 }
 .liens{
+    width: 500px;
 position: relative;
-background-color: black;
-font-size: 26pt;
+background-color:white;
+font-size: 20pt;
+margin: auto;
+padding: 80px;
 }
  .liens a{
-color:mediumslateblue;
+font-family: cursive;
+color:black;
 padding:10px;
+font-size: 25pt;
 }
 #core{
 width: 5px;
 height: 10px;
 }
 .description{
-    color: mediumpurple;
+    color: black;
+    font-size: 16pt;
 }
-
-/*
-@media screen and (min-width: 600px) and (min-height: 1000px){
-.liens{
-
-display: flex;
-flex-direction: column;
-opacity: 0,5;
-    top: 0px;
-}
-.liens>a {
-    font-size: 1.3em;
-    color: darkgrey;
-    margin:5px;
-    background-color: black;
+.fleur{
+    font-size: 50pt;
+    position: absolute;
+    top : 200px;
+    left: 250px;
+    color: darkred;
+    z-index: 100;
 
 }
-.corps{
-    background-color: black;
-    top: 10vh;
+@media screen and (max-width: 1000px) and (min-height:500px){
+    section{
+        max-width:95vw;
+    }
+    .liens{
+        margin: 0px;
+        width: 90vw;
+        padding: 100px 0px 100px 0px;
+    }
+    .fleur{
+       display: none;
+    }
 }
-.description{
-    font-size: 1,1em;
-    display: block;
-    padding-left: 10px;
-}
-a + div{
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: solid 1px rgba(50, 50, 93, 0.25);
-box-shadow: rgba(50, 50, 93, 0.25) 0px 3px 6px -2px, rgba(0, 0, 0, 0.3) 0px 3px 0px -3px;
-
-}
-#tout{
-    top: 50vh;
-}
-*/
