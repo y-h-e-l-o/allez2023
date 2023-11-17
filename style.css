@@ -9,9 +9,9 @@ margin: auto;
 }
 section{
     margin:auto;
-    padding: 20px;
-    width: 900px;
-    background-color: white;
+    padding: 10px;
+    width: 400px;
+    background-color:goldenrod;
 }
 #tout{
 font-size: 14pt;
@@ -25,7 +25,6 @@ margin: auto;
     flex-direction: column;
     top: 200vh;
 }
-
 .first{
 display:flex;
 flex-wrap: wrap;
@@ -40,24 +39,27 @@ flex-basis: 33,3%;
 text-decoration: none;
 margin: 5px;
 }
+.deux{
+    font-size: 26px;
+}
 .idbis{
     position: relative;
     font-size: 16pt;
     color:black;
 }
 .liens{
-    width: 500px;
+    width: 400px;
 position: relative;
-background-color:white;
+background-color:goldenrod;
 font-size: 20pt;
 margin: auto;
-padding: 80px;
 }
  .liens a{
-font-family: cursive;
+display: flex;
 color:black;
-padding:10px;
-font-size: 25pt;
+margin-top: 0px;
+font-size: 20pt;
+text-decoration: none;
 }
 #core{
 width: 5px;
@@ -67,17 +69,9 @@ height: 10px;
     color: black;
     font-size: 16pt;
 }
-.fleur{
-    font-size: 50pt;
-    position: absolute;
-    top : 200px;
-    left: 250px;
-    color: darkred;
-    z-index: 100;
-
-}
 @media screen and (max-width: 1000px) and (min-height:500px){
     section{
+        padding: 10px;
         max-width:95vw;
     }
     .liens{
