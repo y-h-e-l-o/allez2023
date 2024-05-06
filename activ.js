@@ -5,12 +5,13 @@ window.addEventListener("load", setup);
 function setup(){
 
 const nik = document.querySelector("#tout");
+const background = document.querySelector(".blur");
 
 nik.addEventListener("click", changerFond, false);
 
 function changerFond (){
-	let chiffre = getRandomIntInclusive(1,18);
-	document.body.style.backgroundImage = "url('petites/pintur"+chiffre+".jpg')";
+	let chiffre = getRandomIntInclusive(3,8);
+	background.style.backgroundImage = "url('petites/pintur"+chiffre+".jpg')";
 	console.log(chiffre);
 	}
 }

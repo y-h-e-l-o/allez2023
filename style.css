@@ -1,85 +1,28 @@
 body{
-background-image:url('petites/pintur3.jpg');
-background-repeat:repeat   ;
-background-size: 200px ;
 margin: auto;
+height: 150vh;
+overflow:hidden;
+}
+.blur{
+    z-index: -10;
+    width: 100%;
+    height: 200vh;
+    filter: blur(3px);
+    position: absolute;
+    background-image:url('petites/pintur4.jpg');
+    background-repeat:repeat   ;
+    top: 0px;
+    background-size: 1000px ;
 }
 *{
     font-family: sans-serif;
-}
-section{
-    margin:auto;
-    padding: 10px;
-    width: 400px;
-    background-color:goldenrod;
-}
-#tout{
-font-size: 14pt;
-letter-spacing: 1px;
-display: flex;
-margin: auto;
-}
-.down{
-    position : relative;
-    display: flex;
-    flex-direction: column;
-    top: 200vh;
-}
-.first{
-display:flex;
-flex-wrap: wrap;
-position: relative;
-justify-content:space-between;
-font-size: 16pt;
-color:black;
-}
 
-.id{
-flex-basis: 33,3%;
-text-decoration: none;
-margin: 5px;
-}
-.deux{
-    font-size: 26px;
-}
-.idbis{
-    position: relative;
-    font-size: 16pt;
-    color:black;
-}
-.liens{
-    width: 400px;
-position: relative;
-background-color:goldenrod;
-font-size: 20pt;
-margin: auto;
-}
- .liens a{
-display: flex;
-color:black;
-margin-top: 0px;
-font-size: 20pt;
-text-decoration: none;
-}
-#core{
-width: 5px;
-height: 10px;
-}
-.description{
-    color: black;
-    font-size: 16pt;
+.by{
+    position: fixed;
+    top: 97vh;
+    background-color: black;
+    color: white;
 }
 @media screen and (max-width: 1000px) and (min-height:500px){
-    section{
-        padding: 10px;
-        max-width:95vw;
-    }
-    .liens{
-        margin: 0px;
-        width: 90vw;
-        padding: 100px 0px 100px 0px;
-    }
-    .fleur{
-       display: none;
-    }
+
 }
